@@ -1,5 +1,5 @@
 ---
-title: "cool-post-bro"
+title: "Cool Post Bro"
 date: 2022-09-27
 ---
 
