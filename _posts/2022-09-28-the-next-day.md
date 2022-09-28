@@ -1,5 +1,5 @@
 ---
-title: "The Next Day"
+title: "the-next-day"
 date: 2022-09-28
 ---
 
